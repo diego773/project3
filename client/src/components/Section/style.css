@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+.card {
+  border-radius: 8px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+

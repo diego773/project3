@@ -1,0 +1,40 @@
+.footer {
+  align-items: center;
+}
+.social-footer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+a.social {
+  display: inline-block;
+  padding: 25px 50px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+a.facebook:hover {
+  transform: translateY(-2px);
+  color: #3b5998;
+  align-items: center;
+}
+
+.fa-instagram:hover {
+  transform: translateY(-2px);
+  color: transparent;
+  background: -webkit-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -o-radial-gradient(30% 107%, circle, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+a.twitter:hover {
+  transform: translateY(-2px);
+  color: #00acee;
+}
+
+

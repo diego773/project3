@@ -1,0 +1,61 @@
+/* Navbar clear background */
+.navbar {
+    background-color: transparent;
+}
+
+/* Paw icon */
+.fas {
+    color: white;
+    font-size: 30px;
+}
+
+/* Pinder title */
+.pinder {
+    color: white;
+    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+}
+
+/* hamburger (list) icon */
+.btn {
+  border: transparent;
+  background:transparent;
+  background-color: rgb(217, 235, 245);
+}
+
+.login{
+  color: red;
+  font-size: 15px;
+
+}
+.button {
+  border: transparent;
+  height: 40px;
+  width: 100px;
+  border-radius: 8px;
+}
+
+.navbar-toggler-icon {
+  color: rgb(255, 255, 255);
+}
+
+
+/* list home, about, login text */
+.list-text {
+  color: white;
+  font-size: 25px;
+}
+
+.menu {
+  color: white;
+  size: 5rem;
+}
+
+
+
+
+
+
+
+
+
